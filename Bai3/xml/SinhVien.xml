@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DSSinhVien>
+  <SinhVien>
+    <MSSV>SV001</MSSV>
+    <TenSV>Luân</TenSV>
+    <HoSV>Võ Thành</HoSV>
+    <GioiTinh>Nam</GioiTinh>
+    <NgaySinh>23/12/1999</NgaySinh>
+    <DiaChi>Nha Trang</DiaChi>
+    <MaLop>CNTT1</MaLop>
+    <NamHoc>2017-2021</NamHoc>
+  </SinhVien>
+  <SinhVien>
+    <MSSV>SV00000</MSSV>
+    <HoSV>Nguyễn Tấn</HoSV>
+    <TenSV>Kiệt</TenSV>
+    <NgaySinh>01/01/1999</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Ninh Hoà</DiaChi>
+    <MaLop>CNTT1</MaLop>
+    <NamHoc>2017-2021</NamHoc>
+  </SinhVien>
+  <SinhVien>
+    <MSSV>SV003</MSSV>
+    <TenSV>Anh</TenSV>
+    <HoSV>Cao Quỳnh</HoSV>
+    <GioiTinh>Nữ</GioiTinh>
+    <NgaySinh>01/01/1999</NgaySinh>
+    <DiaChi>Tuy Hoà</DiaChi>
+    <MaLop>CNTT1</MaLop>
+    <NamHoc>2017-2021</NamHoc>
+  </SinhVien>
+  <SinhVien>
+    <MSSV>asdasd</MSSV>
+    <TenSV>
+    </TenSV>
+    <HoSV>
+    </HoSV>
+    <GioiTinh>
+    </GioiTinh>
+    <NgaySinh>
+    </NgaySinh>
+    <DiaChi>
+    </DiaChi>
+    <MaLop>
+    </MaLop>
+    <NamHoc>
+    </NamHoc>
+  </SinhVien>
+</DSSinhVien>
